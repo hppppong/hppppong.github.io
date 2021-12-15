@@ -1,32 +1,34 @@
 {
   "files": {
-    "main.js": "./static/js/main.9e9e71a6.chunk.js",
-    "main.js.map": "./static/js/main.9e9e71a6.chunk.js.map",
+    "main.js": "./static/js/main.bab5dbee.chunk.js",
+    "main.js.map": "./static/js/main.bab5dbee.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.0b389841.js",
     "runtime-main.js.map": "./static/js/runtime-main.0b389841.js.map",
     "static/css/2.7f2484f3.chunk.css": "./static/css/2.7f2484f3.chunk.css",
-    "static/js/2.1ce49f85.chunk.js": "./static/js/2.1ce49f85.chunk.js",
-    "static/js/2.1ce49f85.chunk.js.map": "./static/js/2.1ce49f85.chunk.js.map",
+    "static/js/2.48ff8d55.chunk.js": "./static/js/2.48ff8d55.chunk.js",
+    "static/js/2.48ff8d55.chunk.js.map": "./static/js/2.48ff8d55.chunk.js.map",
     "index.html": "./index.html",
     "service-worker.js": "./service-worker.js",
     "service-worker.js.map": "./service-worker.js.map",
     "static/css/2.7f2484f3.chunk.css.map": "./static/css/2.7f2484f3.chunk.css.map",
-    "static/js/2.1ce49f85.chunk.js.LICENSE.txt": "./static/js/2.1ce49f85.chunk.js.LICENSE.txt",
+    "static/js/2.48ff8d55.chunk.js.LICENSE.txt": "./static/js/2.48ff8d55.chunk.js.LICENSE.txt",
     "static/media/back.7bf7a56f.svg": "./static/media/back.7bf7a56f.svg",
+    "static/media/bar.8d9e0584.png": "./static/media/bar.8d9e0584.png",
     "static/media/baseIcon.aa0e0793.png": "./static/media/baseIcon.aa0e0793.png",
+    "static/media/bg.80d5f5e2.png": "./static/media/bg.80d5f5e2.png",
     "static/media/checkbox.4e2450ab.svg": "./static/media/checkbox.4e2450ab.svg",
     "static/media/checkboxChecked.7f6c2da0.svg": "./static/media/checkboxChecked.7f6c2da0.svg",
     "static/media/cross.d2bbc7f7.svg": "./static/media/cross.d2bbc7f7.svg",
     "static/media/crossBlack.aafc0aee.svg": "./static/media/crossBlack.aafc0aee.svg",
     "static/media/greenTick.5e528318.svg": "./static/media/greenTick.5e528318.svg",
-    "static/media/plus.abd4712a.svg": "./static/media/plus.abd4712a.svg",
+    "static/media/icon.61ed31dc.png": "./static/media/icon.61ed31dc.png",
     "static/media/qrOverlay.185cc3ea.svg": "./static/media/qrOverlay.185cc3ea.svg",
     "static/media/tick.6d45b966.svg": "./static/media/tick.6d45b966.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.0b389841.js",
     "static/css/2.7f2484f3.chunk.css",
-    "static/js/2.1ce49f85.chunk.js",
-    "static/js/main.9e9e71a6.chunk.js"
+    "static/js/2.48ff8d55.chunk.js",
+    "static/js/main.bab5dbee.chunk.js"
   ]
 }
